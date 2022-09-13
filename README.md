@@ -82,7 +82,7 @@ Thank you for your hard work team!
 
 ## Authors
 - **[YJ You](https://github.com/DEV-YJY)** - *Product Owner*
+- **[Rodrigo Reis](https://github.com/RodrigoReis-dev)** - *Git Keeper & Lead Front-End*
 - **[Cameron Read](https://github.com/cameron-read)** - *Agile Facilitator*
 - **[Harrison Mordecai](https://github.com/Banger66)** - *Agile Facilitator*
-- **[Rodrigo Reis](https://github.com/RodrigoReis-dev)** - *Git Keeper*
 - **[Callan Pinto](https://github.com/BaTmAnOmOrE)** - *Vibes Watcher*
